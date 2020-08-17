@@ -1,0 +1,176 @@
+h1
+{
+  text-align:center;
+  font-size:50px;
+  font-family:monospace;
+  color:#3f7370;
+}
+#image
+{
+  width:300px;
+  height:350px;
+  border-radius:20px;
+  margin-left: auto;
+  margin-right: auto;
+  display: block;
+  border:10px solid #4c6764;
+  
+}
+#image-caption
+{
+  text-align:center;
+  font-family:monospace;
+  font-size:15px;
+  color:#1b3130;
+}
+#tribute-info
+{
+  background-color:;
+}
+.title-bg
+{
+  background-color:#a1aaa9;
+}
+
+h2
+{
+  text-align:center;
+  font-size:30px;
+  font-family:monospace;
+  color:#3f7370;
+}
+#sadgrub
+{
+  height:150px;
+  float:left;
+  padding-right:15px;
+}
+#tribute-info
+{
+  text-align:justify;
+  font-size:20px;
+  font-family:monospace;
+  color:#3f7370;
+  padding:10px;
+  margin:20px;
+  
+}
+#sounds
+{
+  height:230px;
+  width:400px;
+  margin-left: auto;
+  margin-right: auto;
+  display: block;
+}
+#listen
+{
+  text-align:center;
+  font-size:15px;
+  font-family:monospace;
+  color:#1b3130;
+}
+#main
+{
+  margin:0 auto; 
+   width:1000px;
+}
+#cont
+{
+  text-align:justify;
+  font-size:20px;
+  font-family:monospace;
+  color:#3f7370;
+  padding:10px;
+  margin:20px;
+}
+#reward
+{
+  height:250px;
+  margin-left: auto;
+  margin-right: auto;
+  display: block;
+}
+#caption2
+{
+  text-align:center;
+  font-family:monospace;
+  font-size:15px;
+  color:#1b3130;
+}
+#map
+{
+  padding:10px;
+  height:250px;
+  width:350px;
+}
+#art
+{
+  height:300px;
+  width:300px;
+}
+#c1
+{
+    font-family:monospace;
+   color:#1b3130;
+  margin-left:100px;
+  float:left;
+  margin-right:290px
+
+}
+#c2
+{
+    font-family:monospace;
+  color:#1b3130;
+  float:left;
+  margin-right:260px;
+}
+#c3
+{
+    font-family:monospace;
+   color:#1b3130;
+}
+#all
+{
+  height:270px;
+  width:420px;
+  margin-right:150px;
+}
+#grubfather
+{
+  height:270px;
+  width:380px;
+}
+#c4
+{
+  font-family:monospace;
+   color:#1b3130;
+  margin-left:140px;
+    float:left;
+margin-right:400px;
+}
+#c5
+{
+   font-family:monospace;
+   color:#1b3130;
+}
+#gif
+{
+  margin-left: auto;
+  margin-right: auto;
+  display: block;
+  height:350px;
+  width:500px;
+}
+#mimic
+{
+  margin-left: auto;
+  margin-right: auto;
+  display: block;
+}
+#c6
+{
+  text-align:center;
+  font-family:monospace;
+  color:#1b3130;
+}
